@@ -1,6 +1,6 @@
 # Allocations for Section 18004 (a) (1) of the Cares Act 
 
-HT: [@Oilfield_Rando](https://twitter.com/Oilfield_Rando) (pretty shamless blue checks taking his research and republishing as original).
+HT: [@Oilfield_Rando](https://twitter.com/Oilfield_Rando)
 
 Data from https://www2.ed.gov/about/offices/list/ope/allocationsforsection18004a1ofcaresact.pdf
 
